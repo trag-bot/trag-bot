@@ -17,6 +17,10 @@ It adapts to your codebase, catches issues early, and even suggests fixes — fo
 
 [JabRef](https://github.com/JabRef/jabref) — the open-source reference manager — leverages **trag-bot** to maintain high code quality across a complex, multi-language codebase.
 
+## 🔆 trag awesomeness
+
+- [trag-public-demo](https://github.com/stylebit-labs) -- see trag-bot in action
+
 ---
 
 Want AI that actually understands your code?  
